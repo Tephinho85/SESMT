@@ -1,0 +1,14 @@
+# Banco de dados local
+sesmt_control.db
+
+# Pasta de imagens de teste
+uploads/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (caso utilize)
+venv/
+env/
+.env
